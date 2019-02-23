@@ -23,7 +23,7 @@ public class TestUtil extends TestBase{
 /*	public static String TESTDATA_SHEET_PATH = "/Users/sajjad/Documents/workspace"
 			+ "/FreeCRMTest/src/main/java/com/crm/qa/testdata/FreeCrmTestData.xlsx";*/
 	
-	public static String TESTDATA_SHEET_PATH = "pomNaveen\\src\\main\\java\\com\\crm\\qa\\testdata\\FreeCrmTestData.xlsx";
+	public static String TESTDATA_SHEET_PATH = "src\\main\\java\\com\\crm\\qa\\testdata\\FreeCrmTestData.xlsx";
 	
 	static Workbook book;
 	static Sheet sheet;
